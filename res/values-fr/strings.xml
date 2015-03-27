@@ -2512,4 +2512,73 @@
     <string name="imei_information_title" msgid="8499085421609752290">"Informations sur le code IMEI"</string>
     <string name="imei_information_summary" msgid="2074095606556565233">"Informations relatives au code IMEI"</string>
     <string name="slot_number" msgid="3762676044904653577">"(Emplacement <xliff:g id="SLOT_NUM">%1$d</xliff:g>)"</string>
+    
+    <!-- Minimal OS build date-->
+    <string name="build_date">Date de la compilation Minimal OS</string>
+    <string name="build_date_default">2014-01-01-0000</string>
+
+    <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
+    <string name="supersu_title">SuperSU</string>
+
+    <!-- Navigation Bar -->
+    <string name="navigation_bar_title">Barre de navigation</string>
+
+    <!-- Navigation Bar Height -->
+    <string name="navigation_bar_height">Hauteur</string>
+    <string name="navigation_bar_height_48">48 dp (Par défaut)</string>
+    <string name="navigation_bar_height_44">44 dp</string>
+    <string name="navigation_bar_height_40">40 dp</string>
+    <string name="navigation_bar_height_36">36 dp</string>
+    <string name="navigation_bar_height_32">32 dp</string>
+    <string name="navigation_bar_height_28">28 dp</string>
+    <string name="navigation_bar_height_24">24 dp</string>
+    <string name="navigation_bar_height_20">20 dp</string>
+    <string name="navigation_bar_height_0">0dp (Cacher)</string>
+
+    <!-- Developer options - kill app long press back -->
+    <string name="kill_app_longpress_back">Tuer l\'application par la touche retour</string>
+    <string name="kill_app_longpress_back_summary">Tuez l\'application au premier plan par un long appui sur la touche retour</string>
+
+    <!-- Display : Rotation -->
+    <string name="display_rotation_title">Rotation</string>
+    <string name="display_rotation_disabled">Désactivée</string>
+    <string name="display_rotation_unit">degrés</string>
+    <string name="display_rotation_category_title">Les différents modes de rotation</string>
+    <string name="display_rotation_0_title">0 degré</string>
+    <string name="display_rotation_90_title">90 degrés</string>
+    <string name="display_rotation_180_title">180 degrés</string>
+    <string name="display_rotation_270_title">270 degrés</string>
+
+    <!-- Sound settings -->
+    <string name="advanced_sound_title">Options avancées</string>
+    <string name="sound_title">Son</string>
+
+    <!-- Safe headset volume restore checkbox -->
+    <string name="safe_headset_volume_title">Volume sécurisé</string>
+    <string name="safe_headset_volume_summary">Empêche un volume trop haut du son lorsqu\'un périphérique audio est branché</string>
+    <string name="safe_headset_volume_warning_dialog_text">L\'écoute prolongée à haut volume peut endommager votre audition. Désactiver avec précaution.</string>
+
+    <!-- Recents panel settings -->
+    <string name="recents_panel_settings">Panneau des applications récentes</string>
+    <string name="show_clear_all_recents_button_title">Bouton d\'effacement des récents</string>
+    <string name="show_clear_all_recents_button_summary">Afficher le bouton pour tout effacer sur le panneau récents</string>
+    <string name="recents_clear_all_location_title">Emplacement du bouton d\'effacement</string>
+    <string name="recents_clear_all_location_top_right">En haut à droite</string>
+    <string name="recents_clear_all_location_top_left">En haut à gauche</string>
+    <string name="recents_clear_all_location_top_center">En haut au centre</string>
+    <string name="recents_clear_all_location_bottom_right">En bas à droite</string>
+    <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
+    <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
+   
+    <!-- Power menu -->
+    <string name="power_menu_title">Menu d\'alimentation</string>
+    <string name="power_menu_reboot_title">Menu de redémarrage</string>
+    <string name="power_menu_screenshot_title">Capture d\'écran</string>
+    <string name="power_menu_airplane_title">Mode avion</string>
+    <string name="power_menu_users_title">Sélecteur d\'utilisateur</string>
+    <string name="power_menu_settings_title">Raccourci des paramètres</string>
+    <string name="power_menu_lockdown_title">Verrouillage de l\'appareil</string>
+    <string name="power_menu_bug_report_title">Rapport de Bug</string>
+    <string name="power_menu_sound_title">Panneau de son</string>
+    <string name="power_menu_bug_report_disabled">Le rapport de bug est désactivé dans les paramètres développeur</string>
 </resources>
